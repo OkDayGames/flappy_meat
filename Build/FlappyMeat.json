@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FlappyMeat.data.unityweb",
+"asmCodeUrl": "FlappyMeat.asm.code.unityweb",
+"asmMemoryUrl": "FlappyMeat.asm.memory.unityweb",
+"asmFrameworkUrl": "FlappyMeat.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
